@@ -89,7 +89,7 @@ You can run the application at the command line.
 
 ## Steps
 1. Open a terminal window.
-3. Clone this repository: `git clone https://github.com/nathandeflavis/final-project-embeddable-ai.git`
+3. Clone this repository: `git clone https://github.com/nathandeflavis/final-project-embeddable-ai.git final_project`
 4. Change to the directory **final_project**: `cd final_project/`
 6. Run `python3 server.py` to start the server.
 7. To stop the server, press Ctrl-C.
