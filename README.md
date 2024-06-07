@@ -81,18 +81,15 @@ The project is a web application integrated with Embeddable IBM Watson AI librar
 It's an opportunity to put my Flask and Python skills into practice.
 
 # How can users can get started with the project?
-You can run the application at the command line.
-
-## Prerequisites
-- Git
-- Python 3 or higher
+You can run the application in an IBM Skills Network lab environment.
 
 ## Steps
 1. Open a terminal window.
-3. Clone this repository: `git clone https://github.com/nathandeflavis/final-project-embeddable-ai.git final_project`
-4. Change to the directory **final_project**: `cd final_project/`
-6. Run `python3 server.py` to start the server.
-7. To stop the server, press Ctrl-C.
+2. Clone this repository: `git clone https://github.com/nathandeflavis/final-project-embeddable-ai.git final_project`
+3. Change to the directory **final_project**: `cd final_project/`
+4. Install the requests library to the environment using the following command on the terminal: `python3.11 -m pip install requests`
+5. Run `python3.11 server.py` to start the server.
+6. To stop the server, press Ctrl-C.
 
 # Where can users can get help with the project?
 Users can contact the project's maintainers and contributors for help.
