@@ -1,7 +1,10 @@
 """
 Functions:
-• em_detector: Analyse client request text for emotions
-• render_index_page: Render the homepage template
+• em_detector: Analyse client request text for emotions.
+• render_index_page: Render the homepage template.
+
+Objects:
+• app: A Flask which is an Emotion Detector application.
 """
 #Task 6: 1. Create the server.py file from scratch.
 from flask import Flask, render_template, request
