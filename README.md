@@ -81,7 +81,7 @@ The project is a web application integrated with Embeddable IBM Watson AI librar
 It's an opportunity to put my Flask and Python skills into practice.
 
 # How can users can get started with the project?
-You can run the application in an IBM Skills Network lab environment.
+You can run the application in [an IBM Skills Network lab environment](https://skills.network).
 
 ## Steps
 1. Open a terminal window.
