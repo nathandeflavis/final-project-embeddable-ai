@@ -12,31 +12,6 @@ The project is a web application integrated with Embeddable IBM Watson AI librar
 6. Incorporate error handling.
 7. Run static code analysis.
 
-## Screenshots
-<img width="624" alt="2b_application_creation" src="https://github.com/nathandeflavis/final-project-embeddable-ai/assets/92447278/e363920f-06da-4f78-b33a-2936a5837ea0">
-<br />
-<sub>Application creation.</sub>
-<br />
-<img width="786" alt="4b_packaging_test" src="https://github.com/nathandeflavis/final-project-embeddable-ai/assets/92447278/12374d4d-b3c1-4c33-a290-4b592db9d93f">
-<br />
-<sub>Packaging test.</sub>
-<br />
-<img width="720" alt="5b_unit_testing_result" src="https://github.com/nathandeflavis/final-project-embeddable-ai/assets/92447278/eec9cfe6-fd32-4eb1-9245-40b8d4d50174">
-<br />
-<sub>Unit testing result.</sub>
-<br />
-<img width="530" alt="6b_deployment_test" src="https://github.com/nathandeflavis/final-project-embeddable-ai/assets/92447278/0572b0e9-9f5d-46c6-83db-23ed96eae723">
-<br />
-<sub>Deployment test.</sub>
-<br />
-<img width="677" alt="7c_error_handling_interface" src="https://github.com/nathandeflavis/final-project-embeddable-ai/assets/92447278/6cfb0a56-0179-4006-acd7-adf26c241016">
-<br />
-<sub>Error handling interface.</sub>
-<br />
-<img width="542" alt="8b_static_code_analysis" src="https://github.com/nathandeflavis/final-project-embeddable-ai/assets/92447278/ab0f56a5-a6f6-48cf-a394-48e4e1fb1283">
-<br />
-<sub>Static code analysis.</sub>
-
 # Why is the project useful?
 It's an opportunity to put my Flask and Python skills into practice.
 
