@@ -1,7 +1,7 @@
 # Repository for final project
 <img width="530" alt="6b_deployment_test" src="https://github.com/user-attachments/assets/cb81f5f9-5582-41f4-ab01-c954dcecc9ab" />
 
-Final project in Google Chrome.
+Project in Google Chrome.
 
 # What does the project do?
 The project is a web application integrated with Embeddable IBM Watson AI libraries.
